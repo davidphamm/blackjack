@@ -1,5 +1,5 @@
 
 Created by me<br>
-https://davidphamm.github.io/blackjack/ for demo<br>
+<a href="https://davidphamm.github.io/blackjack/">Click here</a> for demo
 
 <img src="https://davidphamm.github.io/blackjack/screenshot.png">
